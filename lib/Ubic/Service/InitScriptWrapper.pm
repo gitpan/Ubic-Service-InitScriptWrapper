@@ -1,6 +1,6 @@
 package Ubic::Service::InitScriptWrapper;
 {
-  $Ubic::Service::InitScriptWrapper::VERSION = '0.01';
+  $Ubic::Service::InitScriptWrapper::VERSION = '0.02';
 }
 
 # ABSTRACT: represent any /etc/init.d/ script as ubic service
@@ -68,7 +68,7 @@ Ubic::Service::InitScriptWrapper - represent any /etc/init.d/ script as ubic ser
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

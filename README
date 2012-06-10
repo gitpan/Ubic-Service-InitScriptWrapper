@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Ubic-Service-InitScriptWrapper,
-version 0.01:
+version 0.02:
 
   represent any /etc/init.d/ script as ubic service
 
